@@ -10,11 +10,11 @@ The data used in this project is the CelebA dataset. You can download the zip fi
 
 ## Methods
 
-In this project three architectures on CNN were used.
- - Sequential CNN
- - Autoencoder
- - CNN +  Inception-ResNet-v2 (Deep Koalarization)
-About third architecture you can read here: https://arxiv.org/abs/1712.03400
+In this project, three architectures of CNN were used:
+- Sequential CNN
+- An Autoencoder
+- CNN and Inception-ResNet-v2 (Deep Koalarization)
+About the third architecture, you can read more here: https://arxiv.org/abs/1712.03400
 
 ## Results
 Best result we receives with CNN + Inception-ResNet-v2 model. 
